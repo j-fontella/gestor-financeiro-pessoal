@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/login_dest"
+        android:title="@string/fragment_login"
+        android:icon="@drawable/login"
+     />
+    <item
+        android:id="@+id/registro_dest"
+        android:title="@string/fragment_criarConta"
+        android:icon="@drawable/add_conta"
+     />
+
+
+
+</menu>

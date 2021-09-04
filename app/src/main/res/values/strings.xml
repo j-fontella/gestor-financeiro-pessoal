@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Gestor Financeiro</string>
+    <string name="usuario">Usuário</string>
+    <string name="cpf">CPF</string>
+    <string name="senha">Senha</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="fragment_login">Login</string>
+    <string name="loginh">Login -</string>
+    <string name="cpfh">CPF -</string>
+    <string name="fragment_criarConta">Criar Conta</string>
+    <string name="fragment_esqueci">Esqueci Senha</string>
+    <string name="button_criar_conta">Crie sua Conta</string>
+    <string name="button_esqueci_senha">Recuperar Conta</string>
+    <string name="navigation_adc">Adicionar Operação</string>
+    <string name="navigation_opr">Operações Mensais</string>
+    <string name="txtvw_titulo">Título</string>
+    <string name="txtvw_texto">Texto</string>
+    <string name="edTxt_descricao">Descrição</string>
+    <string name="edTxt_valor">Valor</string>
+    <string name="btn_adicionar">Adicionar</string>
+    <string name="exception_cpf_error">CPF inválido</string>
+    <string name="acp">Admin Control Panel</string>
+    <string name="id">Id</string>
+    <string name="novo_login">Novo login</string>
+    <string name="nova_senha">Nova senha</string>
+    <string name="novo_cpf">Novo CPF</string>
+    <string name="id_edit">ID</string>
+    <string name="editar_conta">Editar conta</string>
+    <string name="sair">Sair</string>
+    <string name="deletar">Deletar usuario</string>
+    <string name="mes">Janeiro</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="adicionar_categoria">Adicionar categoria</string>
+    <string name="suas_categorias">Suas categorias</string>
+    <string name="nome">Nome</string>
+    <string name="nova_categoria">Nova categoria</string>
+    <string name="ganhos">Ganhos</string>
+    <string name="gastos">Gastos</string>
+    <string name="admob_app_id">ca-app-pub-9988897632594461~5417185585</string>
+    <string name="admob_banner_ad">ca-app-pub-9988897632594461/9927276238</string>
+
+</resources>

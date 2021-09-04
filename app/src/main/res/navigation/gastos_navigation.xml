@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_op_adc"
+    app:startDestination="@id/fragment_Exibir">
+
+    <fragment
+        android:id="@+id/fragment_Exibir"
+        android:name="com.futuretecnologia.gestorfinanceiro.operacoes.fragments.ExibirFragment"
+        android:label="fragment_exibir"
+        tools:layout="@layout/fragment_exibir" />
+    <fragment
+        android:id="@+id/fragment_Adicionar"
+        android:name="com.futuretecnologia.gestorfinanceiro.operacoes.fragments.AdicionarFragment"
+        android:label="fragment_adicionar"
+        tools:layout="@layout/fragment_adicionar" />
+</navigation>

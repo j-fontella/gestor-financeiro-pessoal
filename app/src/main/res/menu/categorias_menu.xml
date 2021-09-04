@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/exibirCategoriaFragment"
+        android:icon="@drawable/ic_categoria"
+        android:title="@string/suas_categorias"/>
+
+    <item
+        android:id="@+id/addCategoriaFragment"
+        android:icon="@drawable/ic_adc_categ"
+        android:title="@string/adicionar_categoria"/>
+
+</menu>

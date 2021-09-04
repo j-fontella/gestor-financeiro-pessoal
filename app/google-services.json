@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598604702029",
+    "firebase_url": "https://gestor-financeiro-4d3a2.firebaseio.com",
+    "project_id": "gestor-financeiro-4d3a2",
+    "storage_bucket": "gestor-financeiro-4d3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598604702029:android:c09dff40b8e9c4fa8a5704",
+        "android_client_info": {
+          "package_name": "com.example.gestorfinanceiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598604702029-do52p3b4e323a7a3n9lung6cq40c9q41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gestorfinanceiro",
+            "certificate_hash": "e3708f7797b608ab7523c6cd8979c307012c5550"
+          }
+        },
+        {
+          "client_id": "598604702029-kdis0dl2qda4olmjqs6af0tuarh9cusr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgnx8i2kCiRgWTtWDC2IjjIHAmmJA0SxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598604702029-kdis0dl2qda4olmjqs6af0tuarh9cusr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

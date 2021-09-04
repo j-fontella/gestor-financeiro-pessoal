@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/conta_navigation"
+    app:startDestination="@id/login_dest">
+
+    <fragment
+        android:id="@+id/login_dest"
+        android:name="com.futuretecnologia.gestorfinanceiro.fragments.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/registro_dest"
+        android:name="com.futuretecnologia.gestorfinanceiro.fragments.CriarContaFragment"
+        android:label="fragment_criar_conta"
+        tools:layout="@layout/fragment_criar_conta" />
+
+</navigation>

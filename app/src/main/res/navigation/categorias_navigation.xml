@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/categorias_navigation"
+    app:startDestination="@id/exibirCategoriaFragment">
+
+    <fragment
+        android:id="@+id/exibirCategoriaFragment"
+        android:name="com.futuretecnologia.gestorfinanceiro.categorias.fragments.ExibirCategoriaFragment"
+        android:label="fragment_exibir_categoria"
+        tools:layout="@layout/fragment_exibir_categoria" />
+    <fragment
+        android:id="@+id/addCategoriaFragment"
+        android:name="com.futuretecnologia.gestorfinanceiro.categorias.fragments.AddCategoriaFragment"
+        android:label="fragment_add_categoria"
+        tools:layout="@layout/fragment_add_categoria" />
+</navigation>
